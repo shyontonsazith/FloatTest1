@@ -1,0 +1,10 @@
+.flo{
+    background-color: rgb(178, 233, 178);
+    color: rgb(228, 83, 131);
+    font-size: 20px;
+    width: 30%;
+    margin: 15px;
+    padding: 2px;
+    text-align: justify;
+    display: inline-block;
+}
